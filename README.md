@@ -17,7 +17,7 @@ This is a simple To-Do List web application designed to help users stay organize
 - PHP (for server-side functionality)
 
 ## Demo
-
+Click the GIF to view it in higher resolution.
 <div align="center">
   <img src="review.gif" alt="To-Do List Demo" width="25%">
 </div>
