@@ -16,10 +16,9 @@ This is a simple To-Do List web application designed to help users stay organize
 - JavaScript (jQuery)
 - PHP (for server-side functionality)
 
-## Demo
-Click the GIF to view it in higher resolution.
+## Demo GIF
 <div align="center">
-  <img src="review.gif" alt="To-Do List Demo" width="25%">
+  <img src="demo.gif" alt="To-Do List Demo" width="80%">
 </div>
 
 ## License
